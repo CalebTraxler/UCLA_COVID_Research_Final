@@ -58,3 +58,14 @@ COVID-Modeling/
 │   ├── bifurcation.png
 │   └── phase_portraits.png
 └── README.md
+```
+## Usage
+
+### Dependencies
+
+Install required packages:
+
+```bash
+pip install numpy scipy matplotlib pandas
+```
+
